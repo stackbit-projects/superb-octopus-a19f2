@@ -20,7 +20,7 @@ title = "Medium Rare Stake"
 
   [params.homepage_meta_tags]
     meta_description = "Medium Rare Stake. Staking done well. Never well done."
-    meta_og_title = "Hugo Serif Theme"
+    meta_og_title = "Medium Rare Stake"
     meta_og_type = "website"
     meta_og_url = "https://hugo-serif.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
