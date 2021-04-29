@@ -16,7 +16,7 @@ title = "Medium Rare Stake"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Medium Rare Stake"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
