@@ -27,7 +27,7 @@ title = "Medium Rare Stake"
     meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
